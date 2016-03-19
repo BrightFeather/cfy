@@ -1,0 +1,22 @@
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+.add_margin{
+    margin:0 10px 0 10px;
+}
+.panel-heading{
+    background-color: #0058B1;
+    color:white;
+}
+.outline{
+    border: 1px solid;
+    border-color: #0058B1;
+    border-radius:5px;
+}
+.app-content{
+    background-color: white;
+}
+.panel{
+    border: 1px transparent;
+}
